@@ -1,9 +1,9 @@
-### Que es JavaScript ?
+## Que es JavaScript ?
 * Lenguaje de programación
 * Interpretado
 * Orientado a Objetos
 * Imperativo
-* Case Sesitive ( Upper and Lower Case )
+* Case Sensitive ( Upper and Lower Case )
 * Basado en prototipos / instancias / classless
 * Tipado débil
 * Lenguaje dinámico
