@@ -59,6 +59,8 @@
 ## Operadores
 * Asignación
 * Aritméticos
+* Lógicos
+* Comparativos o de comparación
 
 ## Concatenación
 * Definición
