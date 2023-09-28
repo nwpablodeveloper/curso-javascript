@@ -36,14 +36,14 @@
 booleano que representa la relación de sus valores
 
 
-| expresion | valor | Descripción |
-|--|--|-|
-| 4 == 3 | false | compara si los valores son iguales |
-| 'maria' == 'maria' | true | compara si los valores son iguales |
-| 7 === '7' | false | compara de forma estricta comparando tambien el tipo de dato |
-| 6 === 6 | true | Comparación estricta |
-| 4 > 3 | false | compara si el primer valor es mayor al segundo valor |
-| 4 >= 4 | true | compara si el primer valor es mayor o igual al segundo valor |
-| 7 < 15 | true | compara si el primer valor es menor al segundo valor |
-| 23 <= 15 | false | compara si el primer valor es menor o igual al segundo valor |
-| 45 != 33 | true | compara si los valores son distintos |
+|Nombre| expresion | valor | Descripción |
+|-|--|--|-|
+| Igualdad  | 4 == 3 | false | compara si los valores son iguales |
+| Igualdad | 'maria' == 'maria' | true | compara si los valores son iguales |
+| Identicos  | 7 === '7' | false | compara de forma estricta comparando tambien el tipo de dato |
+| Identicos  | 6 === 6 | true | Comparación estricta |
+| Mayor que  | 4 > 3 | false | compara si el primer valor es mayor al segundo valor |
+| Mayor igaul que  | 4 >= 4 | true | compara si el primer valor es mayor o igual al segundo valor |
+| Menor que  | 7 < 15 | true | compara si el primer valor es menor al segundo valor |
+| Menor igual que  | 23 <= 15 | false | compara si el primer valor es menor o igual al segundo valor |
+| Desigualdad  | 45 != 33 | true | compara si los valores son distintos |
