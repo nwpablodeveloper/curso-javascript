@@ -57,6 +57,12 @@
 * Tipo de variables: Let, Var y Const
 
 ## Operadores
-* de Asignación
+* Asignación
 * Aritméticos
+
+## Concatenación
+* Definición
+* Concatenar con el signo +
+* Concatener string y numeros
+* Template Literarios ( Backtiks `` )
 
