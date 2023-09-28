@@ -14,3 +14,17 @@
 | Asignación AND                                       | x &= y        | x = x & y    |
 | Asignación XOR                                       | ?             | ?            |
 | Asignación OR                                        | x |= y        | x = x | y    |
+
+
+## Operadores Aritméticos
+
+
+| Nombre | Descripción |
+|--------|--------------|
+| + | Suma los operandos |
+| - | Resta los operandos
+| % | Devuelve el resto entero entre la divisioón de los operandos |
+| ++ | incremente UNO al operando |
+| -- | Decremente UNO al operando
+| * | Multiplica los operandos |
+| ** | Potencia el operando ( 2**4 = 16 ) |
