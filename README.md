@@ -47,3 +47,11 @@
     <script src="otro-cotido.js" ></script>
 </body>  
 ```   
+## Variables
+* Concepto
+* Ejemplo
+* Tipo de datos: String ( Cadena de texto ), Number, Boolean, Symbol
+* Datos especiales: Undefined, Null, NaN
+* Scope
+* Hoisting
+* Tipo de variables: Let, Var y Const
