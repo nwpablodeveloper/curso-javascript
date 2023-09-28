@@ -47,3 +47,16 @@ booleano que representa la relación de sus valores
 | Menor que  | 7 < 15 | true | compara si el primer valor es menor al segundo valor |
 | Menor igual que  | 23 <= 15 | false | compara si el primer valor es menor o igual al segundo valor |
 | Desigualdad  | 45 != 33 | true | compara si los valores son distintos |
+
+
+## Operadores Lógicos
+- Los operadores lógicos nos devuelven un resultado a partir de que se 
+cumpla ( o no ) una condición, su resultado es booleano y sus operandos
+son valores lógicos o asimilables a ellos
+
+| Operador | Uso | Valor | Descripcion |
+|-|-|-|-|
+| AND ( && ) | 4 == 4 && 'marta' == 'josé' | false | Admite unicamente true en todas las comparaciones |
+| AND ( && ) | 4 == 4 && 'marta' == 'marta' | true | Admite unicamente true en todas las comparaciones |
+| OR ( || ) | 4 == 4 || 'marta' == 'josé' | true | solo que 1 comparación sea true |
+| NOT ( ! )  | !false | true | invierte el valor |
