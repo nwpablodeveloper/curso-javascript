@@ -29,14 +29,11 @@
 ## Formas de enlazar Javascript:
 * 1 En Linea
 ```
-<<<<<<< HEAD
-    <h1 onclick="alert('Javascritp enlazado en linea')" >Javascript enlzado en linea</h1>
-=======
 <h1 onclick="alert('Javascritp enlazado en linea')" >Javascript enlzado en linea</h1>
->>>>>>> 8bca1c125a1d3a928692fbfc9f1ce684dbfd4087
 ```
 * 2 Con etiquetas de script dentro del <body>
 ```
+
 <body>
     <script type="text/javascritp" > 
         alert('desde etiquetas script') 
@@ -44,12 +41,8 @@
 </body>
 ```
 * 3 Como contenido de un archivos en formato .js
-<<<<<<< HEAD
 ```
 <body>
     <script src="codigo.js" ></script>
-</body>
-```
-=======
-```<script src="codigo.js" ></script>```
->>>>>>> 8bca1c125a1d3a928692fbfc9f1ce684dbfd4087
+</body>  
+```   
