@@ -1,0 +1,1 @@
+alert('enlazado desde un archivo externo')

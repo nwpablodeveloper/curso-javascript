@@ -1,1 +1,0 @@
-JavaScript es un lenguaje interpretado línea a línea por el navegador, mientras se carga la página, que solamente es capaz de realizar las acciones programadas en el entorno de esa página HTML donde reside. Sólo es posible utilizarlo con otro programa que sea capaz de interpretarlo, como los navegadores web.
