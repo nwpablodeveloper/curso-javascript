@@ -1,4 +1,8 @@
 ## Concatenación
+* Definición
+* Concatenar con el signo +
+* Concatener string y numeros
+* Template Literarios ( Backtiks `` )
 
  | Concatenación | Valores | Resultado |
  |-------|---|----|

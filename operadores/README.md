@@ -1,3 +1,8 @@
+## Operadores
+* Asignación
+* Aritméticos
+
+
 ## Operadores de Asignación
 
 | Nombres                                              | Abreviatura   | Significado |
