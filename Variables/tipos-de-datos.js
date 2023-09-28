@@ -7,3 +7,4 @@ variable2 = 1321321321;
 // Tipo de datos Boolean
 variable3 = true;
 variable4 = false;
+
