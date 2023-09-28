@@ -47,7 +47,7 @@
     <script src="otro-cotido.js" ></script>
 </body>  
 ```   
-## Carpeta Variables
+## 1 Variables
 * Concepto
 * Ejemplo
 * Tipo de datos: String ( Cadena de texto ), Number, Boolean, Symbol
@@ -55,3 +55,4 @@
 * Scope
 * Hoisting
 * Tipo de variables: Let, Var y Const
+
