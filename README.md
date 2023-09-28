@@ -44,5 +44,6 @@
 ```
 <body>
     <script src="codigo.js" ></script>
+    <script src="otro-cotido.js" ></script>
 </body>  
 ```   
