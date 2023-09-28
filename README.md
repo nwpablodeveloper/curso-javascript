@@ -47,7 +47,7 @@
     <script src="otro-cotido.js" ></script>
 </body>  
 ```   
-## 1 Variables
+## Variables
 * Concepto
 * Ejemplo
 * Tipo de datos: String ( Cadena de texto ), Number, Boolean, Symbol
@@ -56,3 +56,6 @@
 * Hoisting
 * Tipo de variables: Let, Var y Const
 
+## Operadores
+* de Asignación
+* Aritméticos
