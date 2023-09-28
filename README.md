@@ -17,7 +17,7 @@
 
 ## Para que se usa ?
 * Dinamismo en sitios webs
-* Backend en NodeJS
+* Backends con NodeJS
 * Framworks como Angular, React, Vue.JS
 
 ### Otros no tan comunes:
@@ -31,7 +31,7 @@
 ```
 <h1 onclick="alert('Javascritp enlazado en linea')" >Javascript enlzado en linea</h1>
 ```
-* 2 Con etiquetas de script dentro del <body>
+* 2 Con etiquetas de script dentro de las etiquetas body
 ```
 
 <body>
