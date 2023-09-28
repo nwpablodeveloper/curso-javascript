@@ -8,8 +8,8 @@
  | string + number + number | Pablo + 35 + 8 | Pablo 358 |
 
 
- ## Template literarios Backtiks ``
+ ## Template literarios Backtiks `` Usar 
 
  | Concatenación | Valores | Resultado |
  |-------|---|----|
- | `string + operación aritmetica` | `Pablo + ${ 5 + 30 }` | Pablo 30 |
+ | ` string + operación aritmetica ` | `Pablo + ${ 5 + 30 }` | Pablo 30 |
