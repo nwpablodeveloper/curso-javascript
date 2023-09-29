@@ -47,6 +47,20 @@
     <script src="otro-cotido.js" ></script>
 </body>  
 ```   
+
+## Escritura
+* Camel Case
+
+| Forma | Uso |
+|-|-|
+| const | define una variable con valor estático |
+| var | define una variable de forma global |
+| let | define una variable de bloque |
+| variable | |
+| nombreApellido | una variable camelCase para |
+| Vehiculo | iniciar con mayusculas recomendados para clases |
+
+
 ## Variables
 * Concepto
 * Ejemplo
